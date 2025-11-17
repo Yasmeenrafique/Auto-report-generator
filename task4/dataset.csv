@@ -1,0 +1,16 @@
+date,order_id,product,category,units_sold,unit_price,discount,payment_method,city
+2025-01-01,ORD1011,Men T-Shirt,Apparel,12,1200,5,Card,Lahore
+2025-01-01,ORD1012,Women Kurti,Apparel,7,2500,10,Easypaisa,Karachi
+2025-01-01,ORD1013,Sneakers,Footwear,3,4500,0,Cash,Islamabad
+2025-01-02,ORD1014,Kids Hoodie,Apparel,9,1800,15,JazzCash,Rawalpindi
+2025-01-02,ORD1015,Jeans Pants,Apparel,5,3200,0,Card,Lahore
+2025-01-02,ORD1016,Leather Jacket,Outerwear,2,8500,10,Cash,Karachi
+2025-01-03,ORD1017,Running Shoes,Footwear,4,6000,5,Easypaisa,Multan
+2025-01-03,ORD1018,Socks Pack,Accessories,20,350,0,Cash,Faisalabad
+2025-01-03,ORD1019,Women Scarf,Accessories,11,900,10,Card,Lahore
+2025-01-04,ORD1020,Hoodie,Apparel,6,2200,5,JazzCash,Karachi
+2025-01-04,ORD1021,Formal Shirt,Apparel,8,2800,0,Cash,Islamabad
+2025-01-04,ORD1022,Track Suit,Sports,3,7500,5,Card,Peshawar
+2025-01-05,ORD1023,Backpack,Bags,4,4200,10,Easypaisa,Lahore
+2025-01-05,ORD1024,Cap,Accessories,14,700,0,Cash,Quetta
+2025-01-05,ORD1025,Women Sandals,Footwear,6,3200,5,Card,Sialkot
