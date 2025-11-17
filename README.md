@@ -18,5 +18,5 @@ Python
 
 **🧑‍💻 Author**
 
-   *Yasmeen Rafique*
+   *Yasmeen Rafique*\n
    *Python Automation & Data Analytics Enthusiast*
