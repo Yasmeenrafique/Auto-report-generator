@@ -1,12 +1,12 @@
 # Auto-report-generator
 
-🧰 Technologies Used
+🧰 **Technologies Used**
 
 Python
-## Pandas (Data Processing)
-## FPDF (PDF Creation)
-## Tkinter (GUI)
-## datetime (Timestamps)
+**Pandas (Data Processing)**
+**FPDF (PDF Creation)**
+**Tkinter (GUI)**
+**datetime (Timestamps)**
 
 +-------------------------------------------+
 |     Auto Report Generator                 |
@@ -16,7 +16,7 @@ Python
 |   [ Choose CSV & Generate Report ]        |
 +-------------------------------------------+
 
-🧑‍💻 Author
+**🧑‍💻 Author**
 
-##    *Yasmeen Rafique*
-##   *Python Automation & Data Analytics Enthusiast*
+   *Yasmeen Rafique*
+   *Python Automation & Data Analytics Enthusiast*
